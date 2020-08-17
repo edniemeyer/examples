@@ -1,0 +1,1 @@
+There are 3 ways to use index_ndarry, index_lines, and index_files in Jina, we have examples like faiss, southpark and flower-search. This note will help you understand the pattern beyond those 3 examples.
